@@ -1,0 +1,52 @@
+#first-btn{
+	padding: 10px;
+	background-color:#608080;
+	border-radius: 3px;	
+	text-align: center;	
+}
+#first-btn:hover {
+	padding: 10px;
+	background-color:#354646;
+	border-radius: 3px
+}
+
+.btn{
+	padding: 10px;
+	background-color:#40645D;
+	border-radius: 3px;	
+	text-align: center;	
+}
+.btn:hover {
+	padding: 10px;
+	background-color:#61988E;
+	border-radius: 3px;
+}
+
+
+.typeform-share-button {
+	display:inline-block;
+	text-decoration:none;
+	background-color:#608080;
+	color:white;
+	cursor:pointer;
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:20px;
+	line-height:50px;
+	text-align:center;
+	margin:0;
+	height:50px;
+	padding:0px 33px;
+	border-radius:25px;
+	max-width:100%;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	font-weight:bold;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+}
+
+.typeform-share-button:hover {
+	background-color:#354646;
+}
+	
